@@ -1,2 +1,2 @@
 # wpf
- C#
+ C#, XAML
